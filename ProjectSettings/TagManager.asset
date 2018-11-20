@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BackgroundSprites
+    uniqueID: 2559337265
+    locked: 0
+  - name: ForegroundSprite
+    uniqueID: 2069454321
+    locked: 0
+  - name: BackgroundTiles
+    uniqueID: 3401042695
+    locked: 0
+  - name: ForegroundTiles
+    uniqueID: 4143552301
+    locked: 0
+  - name: Player
+    uniqueID: 4098925405
+    locked: 0
